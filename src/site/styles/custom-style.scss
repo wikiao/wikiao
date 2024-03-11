@@ -1,14 +1,16 @@
+ @font-face {
+  font-family: 'Futura PT';
+  src: url("https://fonts.cdnfonts.com/css/futura-pt");
+}
 body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-   @font-face {
-  font-family: 'Futura PT', sans-serif;
-  src: url("https://fonts.cdnfonts.com/css/futura-pt");
-}
+  
     .content {
     font-size: 10px;
+    font-family: 'Futura PT', sans-serif;
     }
     //  h1 {
     //   color: black;
