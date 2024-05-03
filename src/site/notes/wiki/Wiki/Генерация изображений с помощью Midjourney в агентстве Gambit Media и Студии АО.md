@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/wiki/generacziya-izobrazhenij-s-pomoshhyu-midjourney-v-agentstve-gambit-media-i-studii-ao/"}
+{"dg-publish":true,"dg-permalink":"regenson","permalink":"/regenson/"}
 ---
 
 >в папки: Дизайнера, координатора
